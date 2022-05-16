@@ -1,5 +1,3 @@
-from urllib import response
-from weakref import WeakSet
 import requests
 
 API_KEY = "ADD_API_KEY_HERE"
